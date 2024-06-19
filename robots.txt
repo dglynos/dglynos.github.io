@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dglynos.github.io/sitemap.xml
+Sitemap: https://dglynos.github.io/al-folio//sitemap.xml
